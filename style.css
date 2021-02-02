@@ -1,0 +1,8 @@
+table tr td {
+  height: 9rem;
+  width: 9rem;
+  border: 5px solid;
+}
+td:hover {
+  background-color: #c56262;
+}
